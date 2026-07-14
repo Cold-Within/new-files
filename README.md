@@ -1,3 +1,3 @@
 new file
- this is feature  branch file
+ this is feature  branch file (new feature 2)
  
